@@ -200,24 +200,30 @@ Open
 Loan_Approval_Prediction.ipynb
 ```
 
+
 ## 📷 Results
 
-The notebook includes:
+### Loan Status Distribution
 
- ##Loan Status Distribution screenshot:
-  <img width="720" height="570" alt="Screenshot 2026-07-21 122607" src="https://github.com/user-attachments/assets/90cf02c2-cd49-420c-915a-f4b29af2abe2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/90cf02c2-cd49-420c-915a-f4b29af2abe2" width="700">
+</p>
 
+---
 
+### Confusion Matrix
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a9154501-e4ab-4a39-a9cf-71b41bd2d7bb" width="700">
+</p>
 
-##Confusion Matrix screenshot:
-  <img width="672" height="566" alt="Screenshot 2026-07-21 122621" src="https://github.com/user-attachments/assets/a9154501-e4ab-4a39-a9cf-71b41bd2d7bb" />
+---
 
+### Classification Report
 
-
-##Classification Report screenshot:
-  <img width="577" height="228" alt="Screenshot 2026-07-21 122856" src="https://github.com/user-attachments/assets/6cbee417-9aac-4810-a844-f996d8d967cb" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cbee417-9aac-4810-a844-f996d8d967cb" width="700">
+</p>
 
 
 ##Model Accuracy
