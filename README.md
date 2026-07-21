@@ -204,18 +204,24 @@ Loan_Approval_Prediction.ipynb
 
 The notebook includes:
 
-- Loan Status Distribution screenshot:
+ ##Loan Status Distribution screenshot:
   <img width="720" height="570" alt="Screenshot 2026-07-21 122607" src="https://github.com/user-attachments/assets/90cf02c2-cd49-420c-915a-f4b29af2abe2" />
 
 
-- Confusion Matrix screenshot:
+
+
+##Confusion Matrix screenshot:
   <img width="672" height="566" alt="Screenshot 2026-07-21 122621" src="https://github.com/user-attachments/assets/a9154501-e4ab-4a39-a9cf-71b41bd2d7bb" />
 
-- Classification Report screenshot:
+
+
+##Classification Report screenshot:
   <img width="577" height="228" alt="Screenshot 2026-07-21 122856" src="https://github.com/user-attachments/assets/6cbee417-9aac-4810-a844-f996d8d967cb" />
 
 
-- Model Accuracy : 0.9723207948899929
+
+##Model Accuracy
+Accuracy Score: 0.9723207948899929
 
 ---
 
@@ -254,8 +260,7 @@ BS Computer Science Student
 University of Turbat
 
 - GitHub: https://github.com/zaheerbalochtech-gif
-- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/
-zaheer-ahmed-54300338b
+- LinkedIn: https://linkedin.com/in/www.linkedin.com/in/zaheer-ahmed-54300338b
 
 ---
 
